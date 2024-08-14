@@ -1,0 +1,10 @@
+Name: setuptools
+Version: 58.0.4
+Summary: Easily download, build, install, upgrade, and uninstall Python packages
+Home-page: https://github.com/pypa/setuptools
+Author: Python Packaging Authority
+Author-email: distutils-sig@python.org
+License: UNKNOWN
+Location: /Users/anubhav.kumarrao/Desktop/devlopment/python_projs/nba_data_analysis/venv/lib/python3.9/site-packages
+Requires: 
+Required-by: 
